@@ -1,0 +1,5 @@
+def_dir , /mnt/stuff/Dropbox/02 - Imperial College/Experimental data/PORPHYRIN C70 Devices/20151130/Transient Data/S10D03/ , #
+def_out , /mnt/stuff/Dropbox/02 - Imperial College/Experimental data/PORPHYRIN C70 Devices/20151130/Transient Data/S10D03/output/ , #
+def_eps , 3.000000 , #
+def_L , 100.000000 , nm
+def_A , 0.045000 , cm^2
